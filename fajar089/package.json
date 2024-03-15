@@ -1,6 +1,6 @@
 {
   "name": "fajar",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -8,7 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "fajar": "^1.0.0",
+    "fajar": "^1.1.2",
     "next": "14.1.1",
     "react": "^18",
     "react-dom": "^18"
