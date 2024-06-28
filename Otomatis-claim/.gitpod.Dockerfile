@@ -13,4 +13,7 @@ RUN sudo apt-get update && sudo apt-get install -y \
     libgbm1 \
     libasound2 \
     libpango1.0-0 \
-    libxshmfence1
+    libxshmfence1 \
+    libxfixes3  # tambahkan baris ini
+
+
